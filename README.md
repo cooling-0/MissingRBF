@@ -8,4 +8,4 @@
 ### MIRNN-CF
 ![MIRNN-CF](https://github.com/cooling-0/MissingRBF/blob/main/MIRNN-CF2.jpg)
 ### Solving long term missing with MIRNN-CF
-
+![test](https://github.com/cooling-0/MissingRBF/blob/main/test_example.jpg)
